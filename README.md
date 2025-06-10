@@ -43,7 +43,7 @@ A simple PHP/MySQL–powered electronics storefront where customers can browse, 
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/kishankumar2607/SpaceTech-Store.git
-   cd spacetech-store
+   cd SpaceTech-Store
    ```
 
 2. **Install dependencies**  
